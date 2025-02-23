@@ -1,5 +1,9 @@
 import Link from "next/link";
 
+// Import fetchers to ensure they are registered in FetcherRegistry
+import "../fetchers/UserDataFetcher";
+import "../fetchers/ProductDataFetcher";
+
 export default function Home() {
     return (
         <div style={{ textAlign: "center", marginTop: "50px" }}>

@@ -9,6 +9,3 @@ export class ProductDataFetcher extends BaseFetcher<{
     super("/data/products.json"); // Ensure this path is correct
   }
 }
-
-// ✅ Ensure the fetcher is registered immediately
-FetcherRegistry.register("ProductData", new ProductDataFetcher());
