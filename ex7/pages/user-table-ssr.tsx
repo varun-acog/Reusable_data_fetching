@@ -1,4 +1,4 @@
-import UserTable from "../components/UserTable";
+import UserTable from "../components/UserList";
 import fs from "fs";
 import path from "path";
 
