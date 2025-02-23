@@ -1,0 +1,10 @@
+[
+  { "id": 101, "name": "Laptop" },
+  { "id": 102, "name": "Phone" },
+  { "id": 103, "name": "Tablet" },
+  { "id": 104, "name": "Headphones" },
+  { "id": 105, "name": "Keyboard" },
+  { "id": 106, "name": "Mouse" },
+  { "id": 107, "name": "Monitor" },
+  { "id": 108, "name": "Printer" }
+]
