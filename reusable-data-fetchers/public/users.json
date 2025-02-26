@@ -1,0 +1,20 @@
+[
+  {
+      "id": 1,
+      "name": "Alice Williams",
+      "email": "alice@newexample.com",
+      "role": "Moderator"
+  },
+  {
+      "id": 2,
+      "name": "Charlie Brown",
+      "email": "charlie@newexample.com",
+      "role": "Contributor"
+  },
+  {
+      "id": 3,
+      "name": "Diana Miller",
+      "email": "diana@newexample.com",
+      "role": "Manager"
+  }
+]
